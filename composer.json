@@ -1,0 +1,18 @@
+{
+    "name": "webmaster/public",
+    "autoload": {
+        "psr-4": {
+            "Balrog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "davidggdev",
+            "email": "davidggdev@gmail.com"
+        }
+    ],
+    "require": {
+        "zircote/swagger-php": "^4.4",
+        "doctrine/annotations": "^1.13"
+    }
+}

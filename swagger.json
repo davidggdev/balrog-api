@@ -1,0 +1,23 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "Balrog API",
+        "description": "Example info",
+        "contact": {
+            "name": "Swagger API Team"
+        },
+        "version": "0.1.0"
+    },
+    "servers": [
+        {
+            "url": "http://192.168.1.6:9010/",
+            "description": "API server"
+        }
+    ],
+    "tags": [
+        {
+            "name": "get",
+            "description": "User related operations"
+        }
+    ]
+}
