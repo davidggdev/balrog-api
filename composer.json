@@ -13,6 +13,7 @@
     ],
     "require": {
         "zircote/swagger-php": "^4.4",
-        "doctrine/annotations": "^1.13"
+        "doctrine/annotations": "^1.13",
+        "predis/predis": "^2.0"
     }
 }

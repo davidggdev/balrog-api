@@ -3,6 +3,8 @@
 /** TODO
  *  [] MYSQL
  *  [] REDIS 
+ *  [] LOG
+ *  [] REBRAND SWAGGER STYLES
  */
 
 /** davidggdev - main index controller */
